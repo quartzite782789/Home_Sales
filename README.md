@@ -1,2 +1,4 @@
 # Home_Sales
-CThomas Challenge 22
+ Challenge 22
+
+ ChatGPT and classmate assistance were used in the development of this project.
